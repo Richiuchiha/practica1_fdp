@@ -1,0 +1,54 @@
+Actividades
+Crear un repositorio de almacenamiento en línea.
+Realizar búsquedas avanzadas de información especializada. 
+Control de Versiones
+Es un sistema que lleva registra los cambios de uno o más archivos. Este sistema hace posible regresar a versiones anteriores de los archivos, y de esta manera poder revertir, comparar o simplemente consultar los cambios que se han realizado. También nos permite ver quienes han realizado cambios y cuáles fueron, en caso de ser un trabajo colaborativo. Al ser una especie de respaldo, también protege a nuestros archivos de errores humanos o problemas técnicos como lo podría ser una falla eléctrica. 
+Existen tres tipos de sistemas de control de versiones:
+-Sistema de control de versiones local.
+-Sistema de control de versiones centralizado.
+-Sistema de control de versiones distribuido.
+Almacenamientos en la nube: En este tipo de almacenamiento, los datos se almacenan, administran y respaldan de forma remota y son administradas por el proveedor del servicio (Google, Microsoft, Apple, etc.). Los servicios se ponen a disposición de los usuarios a través de Internet y son gratuitos, el único requisito es tener una cuenta de dicho proveedor.
+A continuación, revisamos algunos de los servicios que ofrecen proveedores como Google y Microsoft:
+Google Forms: Es una aplicación que permite recolectar información mediante cuestionarios que pueden ser enviados y contestados por un grupo de personas. 
+Nosotros hicimos un formulario de dos preguntas, el cuál enviamos a 5 de nuestros compañeros de clase. En mi caso, sólo lo respondieron 3 de los 5.
+Primero creamos un formulario nuevo, agregamos las preguntas y las respuestas para finalmente compartirla con nuestros compañeros mediante correo electrónico.
+Cuando mis compañeros respondieron las preguntas, en el archivo se muestra la cantidad de personas que han respondido y un resumen de los resultados con gráficas.
+One Note: Este servicio de almacenamiente en la nuve es un producto de Outlook (Microsoft), que sirve para crear notas rápidas, aunque también tiene muchas más herramientas para crear y editar documentos un poco más complejos que una “nota”.
+Para la práctica, creamos una nota nueva, la nombramos con el número de la práctica, luego buscamos en Google maps una ubicación en dónde nos gustaría estar si no estuvieramos en cuarentena. Yo elegí la Biblioteca Vasconcelos porque es un lugar tranquilo, pero con muchas cosas que hacer; luego agregamos la foto y con las herramientas de OneNote resaltamos la ubicación.
+Búsquedas de internet en Google Search.
+Para realizar una búsqueda de una palabra u otra, evitando una en específico.
+Or: indica que la búsqueda debe contener una palabra o la otra.
+-: indica que la búsqueda no debe contener esa palabra. 
+Mi búsqueda fue: imágenes perros or ranas -gatos.
+Búsqueda con comillas dobles.
+Las comillas dobles ("") al inicio y al final de la búsqueda indican que sólo se deben buscar páginas que contengan exactamente dichas palabras. En este caso se agregó el conector del a la búsqueda para encontrar exactamente la frase.
+Mi búsqueda fue: “ranas mexicanas”
+Búsqueda con el signo +.
+Al momento de hacer búsquedas no es necesario incluir palabras como los artículos (el, la, los, las, un, etc.), pero en caso de ser necesario se puede hacer lo siguiente:
+El símbolo de + sirve para que en la búsqueda se agregue la palabra y encuentre páginas que la incluyan.
+Mi búsqueda fue: +ranas mexicanas.
+Búsqueda con comandos.
+Si se quiere saber el significado de una palabra sólo se debe agregar define:<palabra>
+Mi búsqueda fue: define:canis
+Site ayuda a buscar sólo en un sitio determinado.
+~ indica que encuentre cosas relacionadas con esa palabra.
+.. sirve para buscar en un intervalo de números, en este caso, de años.
+Mi búsqueda fue: site:youtube.com ~comercialesmexicanos 2013..2014
+Intitle:<palabra> se encarga de encontrar páginas que tengan la palabra como título.
+Intext:<término> se usa para restringir los resultados donde se encuentre un término específico.
+Filetype:<tipo> se utiliza para realizar la búsqueda y obtener un tipo de documento en especial.
+Mi búsqueda fue: intitle:”lenguajes de programación” intext:fortran filetype:pdf
+Calculadora.
+Se pueden realizar diversas operaciones directamente en la barra de búsqueda simplemente agregando la ecuación.
+Mi búsqueda fue: sin(60) + cos(45)
+Convertidor de unidades.
+El buscador de Google también se puede utilizar para obtener la equivalencia entre dos sistemas de unidades.
+Mis búsquedas fueron: 100 grados Fahrenheit a centígrados
+                      100 pesos mexicanos a pesos colombianos
+Gráficas en 2D.
+Es posible graficar funciones, para ello simplemente se debe insertar ésta en la barra de búsqueda. También se puede asignar el intervalo de la función que se desea graficar.
+Primero se agrega la función y posteriormente se define el intervalo con los conectores “from” y “to”
+Mi búsqueda fue: 5cos(x) from -2 to 6
+Google Acodémico.
+Google Académico es un buscador de Google especializado en artículos de revistas científicas, enfocado en el mundo académico, y soportado por una base de datos disponible libremente en Internet que almacena un amplio conjunto de trabajos de investigación científica de distintas disciplinas y en distintos formatos de publicación.
+Mi búsqueda fue: lenguajes de programación
